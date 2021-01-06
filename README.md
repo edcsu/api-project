@@ -4,8 +4,9 @@ This a restful api using larevel php framework.
 
 ## Requirements
 
-*[php](https://www.google.com)
-*[mysql](https://www.google.com)
+*[php](https://windows.php.net/download/)
+*[mysql community edition](https://dev.mysql.com/downloads/)
+*[composer(optional)](https://getcomposer.org/download/)
 
 > An all in one installation with an interface to configure easily php an mysql is recommended.
 > Use [XAMMP](https://www.apachefriends.org/index) which is a completely free, easy to install Apache distribution containing MariaDB PHP, and Perl.
