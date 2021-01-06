@@ -5,7 +5,9 @@ This a restful api using larevel php framework.
 ## Requirements
 
 *[php](https://windows.php.net/download/)
+
 *[mysql community edition](https://dev.mysql.com/downloads/)
+
 *[composer(optional)](https://getcomposer.org/download/)
 
 > An all in one installation with an interface to configure easily php an mysql is recommended.
